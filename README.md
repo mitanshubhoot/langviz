@@ -132,17 +132,3 @@ htmlwidgets::saveWidget(plotly::ggplotly(p), "output.html", selfcontained=TRUE)
 - **React dev server not loading?** Make sure port 3000 is free and accessible.
 
 ---
-
-## 📽️ Demo
-
-_A screen recording link showing working examples for Python and R will go here._  
-👉 _[Upload a video to Loom, YouTube, or Drive and paste link here]_
-
----
-
-## 🧑‍🎓 Author
-
-**Mitanshu Bhoot**  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or explore more projects on [GitHub](https://github.com/mitanshubhoot)
-
----
